@@ -1,14 +1,14 @@
-Salom bu TODO-list projectim. 
-Bu project NEST.JS da qilingan. 
-<b>siz qoshishingiz kerak</b>
-.env file ichida :
-PORT=3002
-DB_HOST=hostname
-DB_PORT=7777
-DB_USERNAME=db_username
-DB_PASSWORD=password
-DB_DATABASE=database
+Salom bu TODO-list projectim. </br>
+Bu project NEST.JS da qilingan. </br>
+<b>siz qoshishingiz kerak</b></br>
+.env file ichida :</br>
+PORT=3002</br>
+DB_HOST=hostname</br>
+DB_PORT=7777</br>
+DB_USERNAME=db_username</br>
+DB_PASSWORD=password</br>
+DB_DATABASE=database</br>
 
-database sifatida postgresql db ishlatilgan.
+database sifatida postgresql db ishlatilgan.</br>
 
-<b>file: src/config/constanta.ts</b> -ichidaham konfiguratsiyalar mavjud.
+<b>file: src/config/constanta.ts</b> -ichidaham konfiguratsiyalar mavjud.</br>
